@@ -7,7 +7,7 @@ name = "ppo-from-scratch"
 version = "0.1.0"
 description = "Proximal Policy Optimization in NumPy with hand-written gradients"
 authors = [{ name = "Ankit Pawar" }]
-license = { text = "MIT" }
+license = { text = "Proprietary. All rights reserved; see LICENSE." }
 requires-python = ">=3.10"
 dependencies = ["numpy>=1.24"]
 
